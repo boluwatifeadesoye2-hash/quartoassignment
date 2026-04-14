@@ -128,6 +128,7 @@ df_pd = df.to_pandas()
 )
 ```
 The scatterplot shows a slight positive relationship between year and neonatal death share across all observations. The upward regression line suggests that the share of under-five deaths occurring in the neonatal period has tended to rise over time. Although the data points are widely spread, the overall direction is still visible.
+
 ## World map
 
 This map shows that neonatal mortality is unevenly distributed across the world. Higher values appear more common in parts of Africa and Asia, while many other countries show lower shares. The geographic pattern suggests that location and broader development conditions still matter a great deal.
